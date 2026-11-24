@@ -1,0 +1,9 @@
+# Local data: never in the repo
+datos_venta.json
+servidores.json
+ventas.csv
+perfil_chrome/
+
+__pycache__/
+*.pyc
+.venv/
