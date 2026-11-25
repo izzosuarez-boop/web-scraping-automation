@@ -1,7 +1,5 @@
 # End-to-end web scraping: from data to decisions
 
-**Portfolio:** [ivanboot.dev](https://ivanboot.dev) · see it working in [Web Scraping, Software Automation & Data](https://ivanboot.dev/automation)
-
 The value of web scraping isn't in collecting data but in using it well: wiring it into scripts and bots that act on
 the client's own rules.
 
